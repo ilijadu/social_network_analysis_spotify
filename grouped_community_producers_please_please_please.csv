@@ -1,0 +1,121 @@
+track_ids,count,producers
+"('0V3wPSX9ygBnCm8psDIegu', '1BxfuPKGuaTgP7aM0Bbdwr')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('0V3wPSX9ygBnCm8psDIegu', '1Iq8oo9XkmmvCQiGOfORiz')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('0V3wPSX9ygBnCm8psDIegu', '1wtOxkiel43cVs0Yux5Q4h')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('0V3wPSX9ygBnCm8psDIegu', '3CeCwYWvdfXbZLXFhBrbnf')",1,['Taylor Swift']
+"('0V3wPSX9ygBnCm8psDIegu', '3KdoeNlEN0BoAKWzaRLNZa')",1,['Jack Antonoff']
+"('0V3wPSX9ygBnCm8psDIegu', '3hUxzQpSfdDqwM3ZTFQY0K')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('0V3wPSX9ygBnCm8psDIegu', '3rWDp9tBPQR9z6U5YyRSK4')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('0V3wPSX9ygBnCm8psDIegu', '4P9Q0GojKVXpRTJCaL3kyy')",1,['Taylor Swift']
+"('0V3wPSX9ygBnCm8psDIegu', '5N3hjp1WNayUPZrA8kJmJP')",1,['Jack Antonoff']
+"('0V3wPSX9ygBnCm8psDIegu', '5enxwA8aAbwZbf5qCHORXi')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('0V3wPSX9ygBnCm8psDIegu', '5jQI2r1RdgtuT8S3iG8zFC')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('0V3wPSX9ygBnCm8psDIegu', '7KokYm8cMIXCsGVmUvKtqf')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('0lx2cLdOt3piJbcaXIV74f', '4LEK9rD7TWIG4FCL1s27XC')",1,['Aaron Dessner']
+"('1BxfuPKGuaTgP7aM0Bbdwr', '1Iq8oo9XkmmvCQiGOfORiz')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1BxfuPKGuaTgP7aM0Bbdwr', '1wtOxkiel43cVs0Yux5Q4h')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1BxfuPKGuaTgP7aM0Bbdwr', '3CeCwYWvdfXbZLXFhBrbnf')",1,['Taylor Swift']
+"('1BxfuPKGuaTgP7aM0Bbdwr', '3KdoeNlEN0BoAKWzaRLNZa')",1,['Jack Antonoff']
+"('1BxfuPKGuaTgP7aM0Bbdwr', '3hUxzQpSfdDqwM3ZTFQY0K')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1BxfuPKGuaTgP7aM0Bbdwr', '3rWDp9tBPQR9z6U5YyRSK4')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1BxfuPKGuaTgP7aM0Bbdwr', '4P9Q0GojKVXpRTJCaL3kyy')",1,['Taylor Swift']
+"('1BxfuPKGuaTgP7aM0Bbdwr', '5N3hjp1WNayUPZrA8kJmJP')",1,['Jack Antonoff']
+"('1BxfuPKGuaTgP7aM0Bbdwr', '5enxwA8aAbwZbf5qCHORXi')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1BxfuPKGuaTgP7aM0Bbdwr', '5jQI2r1RdgtuT8S3iG8zFC')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1BxfuPKGuaTgP7aM0Bbdwr', '7KokYm8cMIXCsGVmUvKtqf')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1Iq8oo9XkmmvCQiGOfORiz', '1wtOxkiel43cVs0Yux5Q4h')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1Iq8oo9XkmmvCQiGOfORiz', '3CeCwYWvdfXbZLXFhBrbnf')",1,['Taylor Swift']
+"('1Iq8oo9XkmmvCQiGOfORiz', '3KdoeNlEN0BoAKWzaRLNZa')",1,['Jack Antonoff']
+"('1Iq8oo9XkmmvCQiGOfORiz', '3hUxzQpSfdDqwM3ZTFQY0K')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1Iq8oo9XkmmvCQiGOfORiz', '3rWDp9tBPQR9z6U5YyRSK4')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1Iq8oo9XkmmvCQiGOfORiz', '4P9Q0GojKVXpRTJCaL3kyy')",1,['Taylor Swift']
+"('1Iq8oo9XkmmvCQiGOfORiz', '5N3hjp1WNayUPZrA8kJmJP')",1,['Jack Antonoff']
+"('1Iq8oo9XkmmvCQiGOfORiz', '5enxwA8aAbwZbf5qCHORXi')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1Iq8oo9XkmmvCQiGOfORiz', '5jQI2r1RdgtuT8S3iG8zFC')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1Iq8oo9XkmmvCQiGOfORiz', '7KokYm8cMIXCsGVmUvKtqf')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('1wtOxkiel43cVs0Yux5Q4h', '3CeCwYWvdfXbZLXFhBrbnf')",1,['Taylor Swift']
+"('1wtOxkiel43cVs0Yux5Q4h', '3KdoeNlEN0BoAKWzaRLNZa')",1,['Jack Antonoff']
+"('1wtOxkiel43cVs0Yux5Q4h', '3hUxzQpSfdDqwM3ZTFQY0K')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('1wtOxkiel43cVs0Yux5Q4h', '3rWDp9tBPQR9z6U5YyRSK4')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('1wtOxkiel43cVs0Yux5Q4h', '4P9Q0GojKVXpRTJCaL3kyy')",1,['Taylor Swift']
+"('1wtOxkiel43cVs0Yux5Q4h', '5N3hjp1WNayUPZrA8kJmJP')",1,['Jack Antonoff']
+"('1wtOxkiel43cVs0Yux5Q4h', '5enxwA8aAbwZbf5qCHORXi')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('1wtOxkiel43cVs0Yux5Q4h', '5jQI2r1RdgtuT8S3iG8zFC')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('1wtOxkiel43cVs0Yux5Q4h', '7KokYm8cMIXCsGVmUvKtqf')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('2gyxAWHebV7xPYVxqoi86f', '2i8f4VnnBjy0yDqH2C452a')",1,['Dan Nigro']
+"('2gyxAWHebV7xPYVxqoi86f', '3k79jB4aGmMDUQzEwa46Rz')",1,['Dan Nigro']
+"('2gyxAWHebV7xPYVxqoi86f', '4ZtFanR9U6ndgddUvNcjcG')",2,"['Alexander 23', 'Dan Nigro']"
+"('2gyxAWHebV7xPYVxqoi86f', '4xqrdfXkTW4T0RauPLv3WA')",1,['Dan Nigro']
+"('2gyxAWHebV7xPYVxqoi86f', '56xHMIfQPoe0prrSi3BGhf')",1,['Dan Nigro']
+"('2gyxAWHebV7xPYVxqoi86f', '5CZ40GBx1sQ9agT82CLQCT')",1,['Dan Nigro']
+"('2gyxAWHebV7xPYVxqoi86f', '5JCoSi02qi3jJeHdZXMmR8')",1,['Dan Nigro']
+"('2gyxAWHebV7xPYVxqoi86f', '61KpQadow081I2AsbeLcsb')",1,['Dan Nigro']
+"('2gyxAWHebV7xPYVxqoi86f', '7lPN2DXiMsVn7XUKtOW1CS')",1,['Dan Nigro']
+"('2i8f4VnnBjy0yDqH2C452a', '3k79jB4aGmMDUQzEwa46Rz')",1,['Dan Nigro']
+"('2i8f4VnnBjy0yDqH2C452a', '4ZtFanR9U6ndgddUvNcjcG')",1,['Dan Nigro']
+"('2i8f4VnnBjy0yDqH2C452a', '4xqrdfXkTW4T0RauPLv3WA')",1,['Dan Nigro']
+"('2i8f4VnnBjy0yDqH2C452a', '56xHMIfQPoe0prrSi3BGhf')",1,['Dan Nigro']
+"('2i8f4VnnBjy0yDqH2C452a', '5CZ40GBx1sQ9agT82CLQCT')",1,['Dan Nigro']
+"('2i8f4VnnBjy0yDqH2C452a', '5JCoSi02qi3jJeHdZXMmR8')",1,['Dan Nigro']
+"('2i8f4VnnBjy0yDqH2C452a', '61KpQadow081I2AsbeLcsb')",1,['Dan Nigro']
+"('2i8f4VnnBjy0yDqH2C452a', '7lPN2DXiMsVn7XUKtOW1CS')",1,['Dan Nigro']
+"('3CeCwYWvdfXbZLXFhBrbnf', '3hUxzQpSfdDqwM3ZTFQY0K')",1,['Taylor Swift']
+"('3CeCwYWvdfXbZLXFhBrbnf', '3rWDp9tBPQR9z6U5YyRSK4')",1,['Taylor Swift']
+"('3CeCwYWvdfXbZLXFhBrbnf', '4P9Q0GojKVXpRTJCaL3kyy')",1,['Taylor Swift']
+"('3CeCwYWvdfXbZLXFhBrbnf', '5enxwA8aAbwZbf5qCHORXi')",1,['Taylor Swift']
+"('3CeCwYWvdfXbZLXFhBrbnf', '5jQI2r1RdgtuT8S3iG8zFC')",1,['Taylor Swift']
+"('3CeCwYWvdfXbZLXFhBrbnf', '7KokYm8cMIXCsGVmUvKtqf')",1,['Taylor Swift']
+"('3KdoeNlEN0BoAKWzaRLNZa', '3hUxzQpSfdDqwM3ZTFQY0K')",1,['Jack Antonoff']
+"('3KdoeNlEN0BoAKWzaRLNZa', '3rWDp9tBPQR9z6U5YyRSK4')",1,['Jack Antonoff']
+"('3KdoeNlEN0BoAKWzaRLNZa', '5N3hjp1WNayUPZrA8kJmJP')",1,['Jack Antonoff']
+"('3KdoeNlEN0BoAKWzaRLNZa', '5enxwA8aAbwZbf5qCHORXi')",1,['Jack Antonoff']
+"('3KdoeNlEN0BoAKWzaRLNZa', '5jQI2r1RdgtuT8S3iG8zFC')",1,['Jack Antonoff']
+"('3KdoeNlEN0BoAKWzaRLNZa', '7KokYm8cMIXCsGVmUvKtqf')",1,['Jack Antonoff']
+"('3hUxzQpSfdDqwM3ZTFQY0K', '3rWDp9tBPQR9z6U5YyRSK4')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('3hUxzQpSfdDqwM3ZTFQY0K', '4P9Q0GojKVXpRTJCaL3kyy')",1,['Taylor Swift']
+"('3hUxzQpSfdDqwM3ZTFQY0K', '5N3hjp1WNayUPZrA8kJmJP')",1,['Jack Antonoff']
+"('3hUxzQpSfdDqwM3ZTFQY0K', '5enxwA8aAbwZbf5qCHORXi')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('3hUxzQpSfdDqwM3ZTFQY0K', '5jQI2r1RdgtuT8S3iG8zFC')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('3hUxzQpSfdDqwM3ZTFQY0K', '7KokYm8cMIXCsGVmUvKtqf')",2,"['Taylor Swift', 'Jack Antonoff']"
+"('3k79jB4aGmMDUQzEwa46Rz', '4ZtFanR9U6ndgddUvNcjcG')",1,['Dan Nigro']
+"('3k79jB4aGmMDUQzEwa46Rz', '4xqrdfXkTW4T0RauPLv3WA')",1,['Dan Nigro']
+"('3k79jB4aGmMDUQzEwa46Rz', '56xHMIfQPoe0prrSi3BGhf')",1,['Dan Nigro']
+"('3k79jB4aGmMDUQzEwa46Rz', '5CZ40GBx1sQ9agT82CLQCT')",1,['Dan Nigro']
+"('3k79jB4aGmMDUQzEwa46Rz', '5JCoSi02qi3jJeHdZXMmR8')",1,['Dan Nigro']
+"('3k79jB4aGmMDUQzEwa46Rz', '61KpQadow081I2AsbeLcsb')",1,['Dan Nigro']
+"('3k79jB4aGmMDUQzEwa46Rz', '7lPN2DXiMsVn7XUKtOW1CS')",1,['Dan Nigro']
+"('3rWDp9tBPQR9z6U5YyRSK4', '4P9Q0GojKVXpRTJCaL3kyy')",1,['Taylor Swift']
+"('3rWDp9tBPQR9z6U5YyRSK4', '5N3hjp1WNayUPZrA8kJmJP')",1,['Jack Antonoff']
+"('3rWDp9tBPQR9z6U5YyRSK4', '5enxwA8aAbwZbf5qCHORXi')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('3rWDp9tBPQR9z6U5YyRSK4', '5jQI2r1RdgtuT8S3iG8zFC')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('3rWDp9tBPQR9z6U5YyRSK4', '7KokYm8cMIXCsGVmUvKtqf')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('4P9Q0GojKVXpRTJCaL3kyy', '5enxwA8aAbwZbf5qCHORXi')",1,['Taylor Swift']
+"('4P9Q0GojKVXpRTJCaL3kyy', '5jQI2r1RdgtuT8S3iG8zFC')",1,['Taylor Swift']
+"('4P9Q0GojKVXpRTJCaL3kyy', '7KokYm8cMIXCsGVmUvKtqf')",1,['Taylor Swift']
+"('4ZtFanR9U6ndgddUvNcjcG', '4xqrdfXkTW4T0RauPLv3WA')",1,['Dan Nigro']
+"('4ZtFanR9U6ndgddUvNcjcG', '56xHMIfQPoe0prrSi3BGhf')",1,['Dan Nigro']
+"('4ZtFanR9U6ndgddUvNcjcG', '5CZ40GBx1sQ9agT82CLQCT')",1,['Dan Nigro']
+"('4ZtFanR9U6ndgddUvNcjcG', '5JCoSi02qi3jJeHdZXMmR8')",1,['Dan Nigro']
+"('4ZtFanR9U6ndgddUvNcjcG', '61KpQadow081I2AsbeLcsb')",1,['Dan Nigro']
+"('4ZtFanR9U6ndgddUvNcjcG', '7lPN2DXiMsVn7XUKtOW1CS')",1,['Dan Nigro']
+"('4xqrdfXkTW4T0RauPLv3WA', '56xHMIfQPoe0prrSi3BGhf')",1,['Dan Nigro']
+"('4xqrdfXkTW4T0RauPLv3WA', '5CZ40GBx1sQ9agT82CLQCT')",1,['Dan Nigro']
+"('4xqrdfXkTW4T0RauPLv3WA', '5JCoSi02qi3jJeHdZXMmR8')",1,['Dan Nigro']
+"('4xqrdfXkTW4T0RauPLv3WA', '61KpQadow081I2AsbeLcsb')",1,['Dan Nigro']
+"('4xqrdfXkTW4T0RauPLv3WA', '7lPN2DXiMsVn7XUKtOW1CS')",1,['Dan Nigro']
+"('56xHMIfQPoe0prrSi3BGhf', '5CZ40GBx1sQ9agT82CLQCT')",1,['Dan Nigro']
+"('56xHMIfQPoe0prrSi3BGhf', '5JCoSi02qi3jJeHdZXMmR8')",1,['Dan Nigro']
+"('56xHMIfQPoe0prrSi3BGhf', '61KpQadow081I2AsbeLcsb')",1,['Dan Nigro']
+"('56xHMIfQPoe0prrSi3BGhf', '7lPN2DXiMsVn7XUKtOW1CS')",1,['Dan Nigro']
+"('5CZ40GBx1sQ9agT82CLQCT', '5JCoSi02qi3jJeHdZXMmR8')",1,['Dan Nigro']
+"('5CZ40GBx1sQ9agT82CLQCT', '61KpQadow081I2AsbeLcsb')",1,['Dan Nigro']
+"('5CZ40GBx1sQ9agT82CLQCT', '7lPN2DXiMsVn7XUKtOW1CS')",1,['Dan Nigro']
+"('5JCoSi02qi3jJeHdZXMmR8', '61KpQadow081I2AsbeLcsb')",1,['Dan Nigro']
+"('5JCoSi02qi3jJeHdZXMmR8', '7lPN2DXiMsVn7XUKtOW1CS')",1,['Dan Nigro']
+"('5N3hjp1WNayUPZrA8kJmJP', '5enxwA8aAbwZbf5qCHORXi')",1,['Jack Antonoff']
+"('5N3hjp1WNayUPZrA8kJmJP', '5jQI2r1RdgtuT8S3iG8zFC')",1,['Jack Antonoff']
+"('5N3hjp1WNayUPZrA8kJmJP', '7KokYm8cMIXCsGVmUvKtqf')",1,['Jack Antonoff']
+"('5enxwA8aAbwZbf5qCHORXi', '5jQI2r1RdgtuT8S3iG8zFC')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('5enxwA8aAbwZbf5qCHORXi', '7KokYm8cMIXCsGVmUvKtqf')",2,"['Jack Antonoff', 'Taylor Swift']"
+"('5jQI2r1RdgtuT8S3iG8zFC', '7KokYm8cMIXCsGVmUvKtqf')",4,"['Sounwave', 'Jack Antonoff', 'Taylor Swift', 'Jahaan Sweet']"
+"('61KpQadow081I2AsbeLcsb', '7lPN2DXiMsVn7XUKtOW1CS')",1,['Dan Nigro']
