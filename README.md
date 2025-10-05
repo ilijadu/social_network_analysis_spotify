@@ -36,3 +36,10 @@ Networks of songs connected by shared producers/writers.
 Clusters of songs grouped by audio features.
 Topic modeling showing dominant lyrical themes.
 Ego networks for individual tracks (e.g., Sabrina Carpenter’s Please Please Please).
+
+
+The main code is stored in the master_thesis_code.ipynb file.
+
+The additional code for artist clustering is located in the Artist_Clustering.ipynb file.
+This notebook focuses on grouping artists based on their aggregated audio features (danceability, energy, valence, tempo, etc.) obtained from the Spotify Web API. It applies K-Means clustering to identify stylistic similarities between artists and uses PCA for dimensionality reduction and visualization. Additionally, it calculates cosine and Euclidean distances, highlighting artists with comparable musical styles.
+The dataset that has been used is all_tracks_please_please_please.csv. It has been collected by combining the top2023.csv, top2022.csv, top 2021.csv and top2020.csv datasets. They have been collected using the Spotify's WEB API and spotipy Python library to collect the data from the most listened songs for each year.
